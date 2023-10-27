@@ -1,0 +1,19 @@
+.odd  {
+    background-color: lightpink;
+    font: 'Verdana','DejaVu Sans',sans-serif;
+
+}
+.odd#third{
+    font-size: 24px;
+}
+
+
+.even#second{
+    color: blue;
+    font-size: 36px;
+}
+.even#fourth{
+    background-color: green;
+    font-size: 24px;
+
+}
